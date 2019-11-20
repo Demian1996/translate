@@ -83,7 +83,7 @@ commander.option(
   )
 );
 
-commander.option("-l --languages [languages]", "languages", "en/ja");
+commander.option("-l --languages [languages]", "languages", "en");
 
 commander.parse(process.argv);
 
