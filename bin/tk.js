@@ -1,3 +1,8 @@
+/*
+ * @Date: 2019-11-15 15:30:28
+ * @LastEditTime: 2019-11-20 10:43:49
+ * @Description: 生成google翻译的tk值
+ */
 function TL(a) {
   var k = "";
   var b = 406644;
